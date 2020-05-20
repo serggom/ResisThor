@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85ec9b78-cdd2-4820-8d51-7aa2c4349fe4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aa5jXUpvDBMZOSyAQUojzSk04Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/../Eletronica/images" />
+      <recent name="$PROJECT_DIR$/imagens" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.resistor">
+    <configuration name="ResistorNovo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eletricidade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResistorNovo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SergioResistor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eletricidade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SergioResistor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SergioResistorBAK" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eletricidade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SergioResistorBAK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resistor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eletricidade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resistor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eletricidade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.resistor" />
+        <item itemvalue="Python.teste1" />
+        <item itemvalue="Python.ResistorNovo" />
+        <item itemvalue="Python.SergioResistor" />
+        <item itemvalue="Python.SergioResistorBAK" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="4" Folder0="$APPLICATION_HOME_DIR$/PtBR-Dictionary" Folder1="$APPLICATION_HOME_DIR$/PtBR-Dictionary" Folder2="$APPLICATION_HOME_DIR$/PtBR-Dictionary" Folder3="$APPLICATION_HOME_DIR$/PtBR-Dictionary" CustomDictionaries="4" CustomDictionary0="$APPLICATION_HOME_DIR$/PtBR-Dictionary/portuguese-brazil.dic" CustomDictionary1="$APPLICATION_HOME_DIR$/PtBR-Dictionary/portuguese-brazil_technical-terms.dic" CustomDictionary2="$APPLICATION_HOME_DIR$/PtBR-Dictionary/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="$APPLICATION_HOME_DIR$/PtBR-Dictionary/portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85ec9b78-cdd2-4820-8d51-7aa2c4349fe4" name="Default Changelist" comment="" />
+      <created>1586961001831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586961001831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="802" height="675" key="#Inspections" timestamp="1589232666049">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="802" height="675" key="#Inspections/0.27.1366.741@0.27.1366.741" timestamp="1589232666049" />
+    <state x="141" y="56" width="968" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589136855698">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="56" width="968" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1589136855698" />
+    <state x="400" y="241" width="558" height="312" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1589126265920">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="400" y="241" width="558" height="312" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1366.741@0.27.1366.741" timestamp="1589126265920" />
+    <state x="416" y="148" width="526" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589652716230">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="148" width="526" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1589652716230" />
+    <state x="490" y="150" width="426" height="482" key="FileChooserDialogImpl" timestamp="1589892364701">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="490" y="150" width="426" height="482" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1589892364701" />
+    <state width="1345" height="143" key="GridCell.Tab.0.bottom" timestamp="1590016111436">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="143" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1590016111436" />
+    <state width="1345" height="143" key="GridCell.Tab.0.center" timestamp="1590016111435">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="143" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1590016111435" />
+    <state width="1345" height="143" key="GridCell.Tab.0.left" timestamp="1590016111435">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="143" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1590016111435" />
+    <state width="1345" height="143" key="GridCell.Tab.0.right" timestamp="1590016111436">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="143" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1590016111436" />
+    <state width="1345" height="186" key="GridCell.Tab.1.bottom" timestamp="1588887977711">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="186" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1588887977711" />
+    <state width="1345" height="186" key="GridCell.Tab.1.center" timestamp="1588887977711">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="186" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1588887977711" />
+    <state width="1345" height="186" key="GridCell.Tab.1.left" timestamp="1588887977710">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="186" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1588887977710" />
+    <state width="1345" height="186" key="GridCell.Tab.1.right" timestamp="1588887977711">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="186" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1588887977711" />
+    <state x="204" y="27" key="SettingsEditor" timestamp="1589136897230">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="204" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1589136897230" />
+    <state x="362" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1586961020372">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="362" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1586961020372" />
+  </component>
+</project>
