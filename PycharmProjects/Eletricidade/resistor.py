@@ -780,7 +780,7 @@ class Ui_Resistor(object):
         self.lbl06.setText(_translate("Resistor", "3ª Faixa"))
         self.lbl07.setText(_translate("Resistor", "4ª Faixa/Multiplicador"))
         self.lbl08.setText(_translate("Resistor", "5ª Faixa/Tolerancia"))
-        self.lbl09.setText(_translate("Resistor", "6ª Faixa/Temperatura em °C"))
+        self.lbl09.setText(_translate("Resistor", "6ª Faixa/Temperatura °C"))
         self.lbl10.setText(_translate("Resistor", "Valor"))
         self.lbl11.setText(_translate("Resistor", "Valor Max."))
         self.lbl12.setText(_translate("Resistor", "Valor Min."))
